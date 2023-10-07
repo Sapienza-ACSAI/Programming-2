@@ -1,27 +1,27 @@
 # Programming-2 (Java)
 
 <h1 align="center">Programming-2 (Java)</h1>
-<p align="center"><i>Taught by prof. Cenciarelli in the a.y. 22/23</i></p>
+<p align="center"><i>Taught by Prof. Pietro Cenciarelli in the a.y. 22/23</i></p>
 
 
 ## Course syllabus
-- Introduction to Object oriented programming. The Java language.
+- Introduction to Object-Oriented Programming The Java language
 
-- Algebra and abstract data types. Classes and objects. Encapsulation.
+- Algebra and abstract data types. Classes and objects. Encapsulation
 
-- Polymorphism (part one): extending classes and inheritance.
+- Polymorphism (part one): extending classes and inheritance
 
-- Abstract classes and interfaces.
+- Abstract classes and interfaces
 
-- Packages. Access modifiers and scoping rules.
+- Packages. Access modifiers and scoping rules
 
-- Nested classes. Anonymous classes. Lambda expressions.
+- Nested classes. Anonymous classes. Lambda expressions
 
-- Polymorphism (part two): Generics. Generic type hierarchy.
+- Polymorphism (part two): Generics. Generic type hierarchy
 
-- Threads and process synchronization. Deadlock and starvation.
+- Threads and process synchronization. Deadlock and starvation
 
-- Design patterns: creational, structural, behavioral, concurrency. (Optional)
+- Design patterns: creational, structural, behavioral, concurrency (Optional)
 
 <i>**Keep in mind:**</i> The notes are not by each lecture, instead, they focus on concepts. 
 
