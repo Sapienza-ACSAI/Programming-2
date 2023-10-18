@@ -38,7 +38,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         <th>Files</th>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_01">01</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_01">01</a></td>
         <td><ul>
             <li>How to print <code>Hello World</code>;</li>
             <li>Creation of <b>methods</b>: how to make and call them;</li>
@@ -51,7 +51,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_02">02</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_02">02</a></td>
         <td><ul>
             <li>Various operations in Java (<code>+</code>, <code>-</code>, <code>*</code> and <code>/</code>);</li>
             <li>Creation of <b>objects</b>;</li>
@@ -66,7 +66,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_03">03</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_03">03</a></td>
         <td><ul>
             <li>Concept of <b>encapsulation</b> and use of the <code>private</code> keyword;</li>
             <li>Use of <code>arrays</code> to implement <code>stacks</code>;</li>
@@ -92,7 +92,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_04">04</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_04">04</a></td>
         <td><ul>
             <li>Implementation of <b>linked lists</b>;</li>
             <li>Introduction of the <code>null</code> value;</li>
@@ -109,7 +109,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_05">05</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_05">05</a></td>
         <td><ul>
             <li>Introduction to <b>subclasses</b>;</li>
             <li>Use of <code>this</code> and <code>super</code> to respectively call the subclass'
@@ -127,7 +127,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center" rowspan="5"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_06">06</a></td>
+        <td align="center" rowspan="5"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_06">06</a></td>
         <td><ul>
             <li><b>Packages</b>, <b>interfaces</b>, <b>abstract</b> classes and methods, <b>access modifiers</b> (each
                    topic is explained in a different package)</li>
@@ -193,7 +193,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_07">07</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_07">07</a></td>
         <td><ul>
             <li>Further examples of <b>abstract</b> classes and introduction of <b>abstract methods</b>;</li>
             <li><b>Static</b> fields</li>
@@ -210,7 +210,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_08">08</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_08">08</a></td>
         <td><ul>
             <li>Interfaces: <b>fields</b>, <code>static</code> and <code>default</code> interface methods;</li>
             <li>Inheritance of <code>default</code> methods for multiple interfaces;</li>
@@ -238,7 +238,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_09">09</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_09">09</a></td>
         <td><ul>
             <li><b>Generics</b>: implementation of <code>GenericList</code>;</li>
             <li><b>Identities</b>: differences between <code>==</code> and <code>equals()</code></li>
@@ -254,7 +254,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_10">10</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_10">10</a></td>
         <td><ul>
             <li><b>Generics</b>: <b>raw types</b>, <b>covariance</b> and <b>contravariance</b>;</li>
             <li><b>Wildcard</b>: use of <code>?</code> for indicating any type</li>
@@ -278,7 +278,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_11">11</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_11">11</a></td>
         <td><ul>
             <li><b>Anonymous classes</b>: implementation by <b>extending classes</b> and by <b>implementing interfaces</b>;</li>
             <li><b>Functional interfaces</b>;</li>
@@ -304,7 +304,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_12">12</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_12">12</a></td>
         <td><ul>
             <li>Introduction to <b>Threads</b> and <b>Runnables</b>;</li>
             <li>Implementation of <code>delay()</code> and <code>run()</code> methods;</li>
@@ -323,7 +323,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_13">13</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_13">13</a></td>
         <td><ul>
             <li><b>Threads</b>: concept of <b>locks</b> and <b>monitors</b>;</li>
             <li>Implementation of <code>synchronized</code> methods or blocks;</li>
@@ -350,7 +350,7 @@ Please be aware that the oral examination for this course is highly dynamic, and
         </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/ElBi21/Java-In-Jars/tree/main/src/Lesson_14">14</a></td>
+        <td align="center"><a href="https://github.com/Sapienza-ACSAI/Programming-2/tree/main/src/Lesson_14">14</a></td>
         <td><ul>
             <li>Preference of <code>synchronized</code> inside the method's declaration rather than inside the method
                 itself;</li>
